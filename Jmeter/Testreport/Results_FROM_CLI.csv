@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1747992615603,1149,Get_post,200,OK,Thread Group 1-1,text,true,,28865,136,10,10,https://jsonplaceholder.typicode.com/posts,1129,0,951
+1747992615604,1149,Get_post,200,OK,Thread Group 1-2,text,true,,28857,136,10,10,https://jsonplaceholder.typicode.com/posts,1129,0,951
+1747992615790,963,Get_post,200,OK,Thread Group 1-4,text,true,,28859,136,10,10,https://jsonplaceholder.typicode.com/posts,943,0,765
+1747992615693,1064,Get_post,200,OK,Thread Group 1-3,text,true,,28857,136,10,10,https://jsonplaceholder.typicode.com/posts,1040,0,862
+1747992615889,868,Get_post,200,OK,Thread Group 1-5,text,true,,28857,136,10,10,https://jsonplaceholder.typicode.com/posts,844,0,666
+1747992616191,571,Get_post,200,OK,Thread Group 1-8,text,true,,28858,136,10,10,https://jsonplaceholder.typicode.com/posts,545,0,364
+1747992615991,772,Get_post,200,OK,Thread Group 1-6,text,true,,28858,136,10,10,https://jsonplaceholder.typicode.com/posts,747,0,564
+1747992616092,671,Get_post,200,OK,Thread Group 1-7,text,true,,28850,136,10,10,https://jsonplaceholder.typicode.com/posts,646,0,463
+1747992616290,497,Get_post,200,OK,Thread Group 1-9,text,true,,28858,136,10,10,https://jsonplaceholder.typicode.com/posts,473,0,310
+1747992616391,503,Get_post,200,OK,Thread Group 1-10,text,true,,28858,136,10,10,https://jsonplaceholder.typicode.com/posts,480,0,315
+1747992616761,396,Post_posts,201,Created,Thread Group 1-2,text,true,,1463,367,10,10,https://jsonplaceholder.typicode.com/posts,396,0,0
+1747992616761,401,Post_posts,201,Created,Thread Group 1-1,text,true,,1463,367,9,9,https://jsonplaceholder.typicode.com/posts,401,0,0
+1747992616761,408,Post_posts,201,Created,Thread Group 1-3,text,true,,1463,367,8,8,https://jsonplaceholder.typicode.com/posts,408,0,0
+1747992616761,408,Post_posts,201,Created,Thread Group 1-4,text,true,,1464,367,8,8,https://jsonplaceholder.typicode.com/posts,408,0,0
+1747992616761,412,Post_posts,201,Created,Thread Group 1-5,text,true,,1463,367,6,6,https://jsonplaceholder.typicode.com/posts,412,0,0
+1747992616763,412,Post_posts,201,Created,Thread Group 1-7,text,true,,1463,367,5,5,https://jsonplaceholder.typicode.com/posts,412,0,0
+1747992616763,416,Post_posts,201,Created,Thread Group 1-6,text,true,,1463,367,4,4,https://jsonplaceholder.typicode.com/posts,416,0,0
+1747992616763,416,Post_posts,201,Created,Thread Group 1-8,text,true,,1463,367,4,4,https://jsonplaceholder.typicode.com/posts,416,0,0
+1747992616788,393,Post_posts,201,Created,Thread Group 1-9,text,true,,1463,367,4,4,https://jsonplaceholder.typicode.com/posts,393,0,0
+1747992616896,393,Post_posts,201,Created,Thread Group 1-10,text,true,,1463,367,1,1,https://jsonplaceholder.typicode.com/posts,393,0,0

@@ -1,0 +1,12 @@
+2025-05-23 10:57:03,332 - Lambda Application -INFO - ========launchApp==========
+2025-05-23 10:57:12,861 - Lambda Application -INFO - application URL: https://ecommerce-playground.lambdatest.io/index.php?route=account/login
+2025-05-23 10:57:25,797 - Lambda Application -INFO - ========closeApp==========
+2025-05-23 10:59:11,708 - Lambda Application -INFO - ========launchApp==========
+2025-05-23 10:59:15,984 - Lambda Application -INFO - application URL: https://ecommerce-playground.lambdatest.io/index.php?route=account/login
+2025-05-23 10:59:20,722 - Lambda Application started -INFO - enter username: sahanahosamani3@gmail.com
+2025-05-23 10:59:22,907 - Lambda Application started -INFO - enter password: sahana123
+2025-05-23 10:59:25,121 - Lambda Application started -INFO - Click on Login button
+2025-05-23 10:59:25,274 - Lambda Application started -INFO - Click on Logout button
+2025-05-23 10:59:31,915 - Lambda Application started -INFO - Application title, after logout sucessful:Account Logout
+2025-05-23 10:59:31,932 - Lambda Application started -INFO - Application URL, after logout sucessful:https://ecommerce-playground.lambdatest.io/index.php?route=account/logout
+2025-05-23 10:59:41,958 - Lambda Application -INFO - ========closeApp==========
