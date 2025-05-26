@@ -26,6 +26,8 @@
 				<configuration>
 					<suiteXmlFiles>
 						<!-- <suiteXmlFile>testng_logging.xml</suiteXmlFile> -->
+						<suiteXmlFile>testnginvalid.xml</suiteXmlFile>
+						<suiteXmlFile>testngvalid.xml</suiteXmlFile>
 						<suiteXmlFile>testngmegamenu.xml</suiteXmlFile>
 
 					</suiteXmlFiles>
